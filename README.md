@@ -7,6 +7,6 @@ Este repositório contém um exemplo simples em C++ que explora os operadores ar
 Certifique-se de ter um compilador C++ instalado no seu sistema. Compile e execute o exemplo da seguinte maneira:
 
 ```bash
-g++ script.cpp -o exemplo
+g++ script.cpp -o script
 ./script
 
